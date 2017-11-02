@@ -21,4 +21,4 @@ python preprocess.py [CLEVR directory]
 python train.py [CLEVR directory]
 ```
 
-Learning is still in progress, but already got promising results. (about ~95% accuracy on test set at epoch 21) Surprisingly but effective model!
+Learning is still in progress, but already got promising results. (about ~95% accuracy on test set at epoch 21) Surprisingly simple but effective model!
