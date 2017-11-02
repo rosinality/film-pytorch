@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# VS Code project settings
+.vscode/
+
+# data file
+data/*.pkl
+checkpoint/*model
+log/*.txt
